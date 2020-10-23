@@ -6,13 +6,17 @@
   <script src="https://unpkg.com/react@17.0.0/umd/react.development.js"></script>
   <script src="https://unpkg.com/react-dom@17.0.0/umd/react-dom.development.js"></script>
   <script src="https://unpkg.com/@babel/standalone@7.12.4/babel.js"></script>
-  
+
   <script type="text/babel">
     // 🐨 on the script tag above, change `type="module"`
     // to `type="text/babel"` so babel will compile this code for the browser to run.
 
     // 🐨 re-implement this using JSX!
-    const ui = <div className="container">Hello World</div>
+    const className = 'container'
+    const children = 'Hello World'
+    const props = {children, className}
+    const ui = <div {...props}/> //className={className}>{children}</div>
+    console.log(ui)
     ReactDOM.render(ui, document.getElementById('root'))
 
     // 💰 there are a few subtle differences between JSX and HTML. One such
@@ -20,7 +24,5 @@
     // `className` rather than `class`!
     // 📜 You can learn the differences between JSX and HTML syntax from the React docs here:
     // https://reactjs.org/docs/dom-elements.html#differences-in-attributes
-
-
   </script>
 </body>
