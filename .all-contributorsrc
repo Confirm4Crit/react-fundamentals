@@ -220,6 +220,88 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Navneet-Sahota",
+      "name": "Navneet Sahota",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/34404592?v=4",
+      "profile": "https://navneet-sahota.netlify.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rodrigofuentes",
+      "name": "Rodrigo Fuentes",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7374840?v=4",
+      "profile": "https://github.com/rodrigofuentes",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jmagrippis",
+      "name": "Johnny Magrippis",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3502800?v=4",
+      "profile": "https://magrippis.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "coderosh",
+      "name": "Roshan Acharya",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/56434316?v=4",
+      "profile": "http://acharyaroshan.com.np",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "decisa",
+      "name": "Art Telesh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35339760?v=4",
+      "profile": "https://github.com/decisa",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "merodiro",
+      "name": "Amr A.Mohammed",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17033502?v=4",
+      "profile": "https://github.com/merodiro",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "DRS90",
+      "name": "Douglas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22821570?v=4",
+      "profile": "https://github.com/DRS90",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "allstargaurav",
+      "name": "Gaurav",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24932097?v=4",
+      "profile": "https://github.com/allstargaurav",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "LauraOneasca",
+      "name": "LauraOneasca",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31212753?v=4",
+      "profile": "https://github.com/LauraOneasca",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "skipCi": true
