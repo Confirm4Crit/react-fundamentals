@@ -24,10 +24,10 @@
   }
 
   const element = (
-    <div className="container">
-      <Message subject={5} greeting="Hello" />
+    <React.Fragment>
+      <Message subject="World" greeting="Hello" />
       <Message subject="World" greeting="Goodbye" />
-    </div>
+    </React.Fragment>
   )
 
   ReactDOM.render(element, document.getElementById('root'))
